@@ -7,9 +7,9 @@ Read – View all containers stored (stack, LIFO) and all ships waiting (queue, 
 Update – Load the top container onto the front ship, reducing both lists <br>
 Delete – The program ends when the user chooses exit <br>
 Examples of program running:
-![Screenshot 3](<Screenshot 2025-09-18 121916.png>) <br>
-![Screenshot 3](<Screenshot 2025-09-18 121931.png>) <br>
-![Screenshot 2](<Screenshot 2025-09-18 121948.png>) <br>
-![Screenshot 1](<Screenshot 2025-09-18 122006.png>) <br>
+![Screenshot 3](<images/Screenshot 2025-09-18 121916.png>) <br>
+![Screenshot 3](<images/Screenshot 2025-09-18 121931.png>) <br>
+![Screenshot 2](<images/Screenshot 2025-09-18 121948.png>) <br>
+![Screenshot 1](<images/Screenshot 2025-09-18 122006.png>) <br>
 
 
